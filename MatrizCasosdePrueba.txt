@@ -1,0 +1,243 @@
+Casos  de Prueba Especificos.
+*************************************************************
+ATC-TEST-0000-FT-CCI-Login-Validacion Manual.
+ATC-TEST-0000-FT-CCI-Login-Combo Pais erroneo.
+ATC-TEST-0000-FT-CCI-Login-Numero erroneo.
+ATC-TEST-0000-FT-CCI-Login-Codigo erroneo.
+ATC-TEST-0000-FT-CCI-Login-Reenviar Codigo.
+ATC-TEST-0000-FT-CCI-Onboarding-Foto de Perfil.
+ATC-TEST-0000-FT-CCI-Onboarding-Foto de Pefil Tomar Foto.
+ATC-TEST-0000-FT-CCI-Onboarding-Foto de Perfil Escoger de Galeria.
+ATC-TEST-0000-FT-CCI-Onboarding-Foto de Perfil Editar.
+ATC-TEST-0000-FT-CCI-Onboarding-Foto de Perfil Cancelar.
+ATC-TEST-0000-FT-CCI-Onboarding-Nombre Texto.
+ATC-TEST-0000-FT-CCI-Onboarding-Nombre Alfanumerico.
+
+ATC-TEST-0000-FT-CCI-Home-Contactos-Agregar Contacto Boton Mas(+) Nuevo Contacto.
+ATC-TEST-0000-FT-CCI-Home-Contactos-Agregar Contacto Boton Mas(+) Contactos Locales Scroll.
+ATC-TEST-0000-FT-CCI-Home-Contactos-Agregar Contacto Boton Mas(+) Contactos Locales Buscar.
+ATC-TEST-0000-FT-CCI-Home-Contactos-Agregar Contacto Boton Mas(+) Escanear codigo QR.
+ATC-TEST-0000-FT-CCI-Home-Contactos-Borrar Contacto Boton Mas(+).
+ATC-TEST-0000-FT-CCI-Home-Contactos-Escanear Codigo QR(+).
+ATC-TEST-0000-FT-CCI-Home-Contactos-Buscar Detalle de Contacto.
+ATC-TEST-0000-FT-CCI-Home-Contactos-Detalle de Contacto Marcar Favorito.
+ATC-TEST-0000-FT-CCI-Home-Contactos-Detalle de Contacto- Editar Contacto boton opciones (...). 
+ATC-TEST-0000-FT-CCI-Home-Contactos-Detalle de Contacto- Eliminar Contacto boton opciones (...).
+ATC-TEST-0000-FT-CCI-Home-Contactos-Detalle de Contacto Llamada
+ATC-TEST-0000-FT-CCI-Home-Contactos-Detalle de Contacto Llamada de operadora.
+ATC-TEST-0000-FT-CCI-Home-Contactos-Detalle de Contacto Videollamada.
+ATC-TEST-0000-FT-CCI-Home-Contactos-Detalle de Contacto Mensaje.
+ATC-TEST-0000-FT-CCI-Home-Contactos-Iniciar un Chat Grupal Boton.
+ATC-TEST-0000-FT-CCI-Home-Contactos-Iniciar un Chat Grupal Boton mas (+).
+ATC-TEST-0000-FT-CCI-Home-Contactos-Iniciar un Chat Grupal Fallido.  (validar que al dar listo sin seleccionar contactos mande msje de selecionar contactos)
+ATC-TEST-0000-FT-CCI-Home-Contactos-Crear un Grupo Boton.
+ATC-TEST-0000-FT-CCI-Home-Contactos-Crear un Grupo Boton mas (+).
+ATC-TEST-0000-FT-CCI-Home-Contactos-Buscar Detalle de grupo.
+ATC-TEST-0000-FT-CCI-Home-Contactos-Detalle de grupo Agregar Contacto.
+ATC-TEST-0000-FT-CCI-Home-Contactos-Detalle de grupo Eliminar Contacto.
+ATC-TEST-0000-FT-CCI-Home-Contactos-Detalle de grupo LLamada a Contacto.
+ATC-TEST-0000-FT-CCI-Home-Contactos-Detalle de grupo Videollamada a Contacto.
+ATC-TEST-0000-FT-CCI-Home-Contactos-Detalle de grupo Mensaje a Contacto.
+ATC-TEST-0000-FT-CCI-Home-Contactos-Detalle de grupo Editar Nombre de Grupo.
+ATC-TEST-0000-FT-CCI-Home-Contactos-Detalle de grupo Eliminar Grupo.
+
+ATC-TEST-0000-FT-CCI-Home-Llamadas- Multi Llamada boton mas (+).
+ATC-TEST-0000-FT-CCI-Home-Llamadas- Multi Llamada boton mas (+) Agregar Telefono.
+ATC-TEST-0000-FT-CCI-Home-Llamadas- Multi Video boton mas (+).
+ATC-TEST-0000-FT-CCI-Home-Llamadas- Multi Video boton mas (+) Agregar Telefono.
+ATC-TEST-0000-FT-CCI-Home-Llamadas- Agregar Contacto boton mas (+).                        (Cualquier Opcion)
+ATC-TEST-0000-FT-CCI-Home-Llamadas- Escanera Codigo QR boton mas (+).
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Realizar Llamada Boton Comienza a Conectar.
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Todas.
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Perdidas.
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Eliminar LLamada.
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Llamada.
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Llamada Editar Contacto Boton Opcion (...).
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Llamada Eliminar Contacto Boton Opcion (...).
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Llamada Cancelar Boton Opcion (...).
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Llamada Editar Contacto Desde Imagen.
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Llamada Favorito.
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Llamada Realizar LLamada.
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Llamada Realizar LLamada Operadora.
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Llamada Realizar Videollamada.
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Llamada Mensaje.
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Llamada Marcar Numero Llamada de Voz.
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Llamada Marcar Numero Videollamada.
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Llamada Marcar Numero Ocultar Teclado.
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Llamada Marcar Numero Agregar Nuevo Contacto Boton mas (+).
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Llamada Marcar Numero Boton mas (+) Agregar a Usuario Existente.
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Llamada Marcar Numero Boton mas (+) Cancelar.
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Eliminar Multillamada.
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Multillamada.
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Multillamada Realizar Multillamada Boton Opciones (...).
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Multillamada Realizar Multi videollamada Boton Opciones (...).
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Multillamada Realizar Multillamada Boton.
+ATC-TEST-0000-FT-CCI-Home-Llamadas-Detalle de Multillamada Realizar Multi videollamada Boton.
+
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Envio de mensaje Nuevo Mensaje Boton (+).
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Nuevo Mensaje de Difusion Boton (+).
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Agregar Contacto Boton (+).
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Escanear Codigo QR Boton (+).
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Envio de Mensaje Iniciar un Chat.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Eliminar Chat.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat LLamar.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Llamada de Operadora.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Videollamada.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Envio de Imagen. 
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Envio de Video.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Envio de Foto Tomar Foto.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Envio de Video Tomar Video.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Envio de Audio.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Envio Emoji.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat llamada Boton mas (+).
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Videollamda Boton mas (+).
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Compartir Mapa Boton mas (+).
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Compartir Sketch Boton mas (+).
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Enviar Contacto Boton mas (+).
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Enviar Ubicacion Boton mas (+).
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Enviar Archivo Boton mas (+).
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Detalle Limpiar Historial de Chat.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Detalle Crear Grupo.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Detalle Editar Contacto.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Detalle Eliminar Contacto.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Detalle Mantener Arriba.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Detalle Mantener Arriba.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Detalle Guardar Archivos en Galeria Nunca.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Modo Ephimeral Enviar Mensaje de Texto.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Modo Ephimeral Enviar Imagen Boton Photos.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Modo Ephimeral Envio de Foto Boton Camara.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Modo Ephimeral Envio de Video Boton Video.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Modo Ephimeral Envio de Emoji.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Modo Ephimeral Enviar Auido.
+ATC-TEST-0000-FT-CCI-Home-Mensajes-Chat Modo Ephimeral Cerrar.
+
+ATC-TEST-0000-FT-CCI-Home-Perfil-Guardar Codigo QR.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Escanear Codigo QR.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Editar Perfil Tomar Foto.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Editar Perfil Escoger de Galeria.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Editar Perfil Foto de Perfil Editar.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Editar Perfil Modificar Nombre.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Editar Perfil Modificar Apodo.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Editar Perfil Guardar Codigo QR.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Editar Perfil Escaner Codigo QR.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Editar Perfil Modificar Estado.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Editar Perfil Modificar Cumpleaños.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Editar Perfil Modificar Correo Electronico.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Editar Perfil Modificar Direccion.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Notificacion de Mensaje ON.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Notificacion de Mensaje OFF.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Detalle de Mensaje ON.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Detalle de Mensaje OFF.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Sonido de Mensaje ON.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Sonido de Mensaje OFF.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Vibracion de Mensaje ON.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Vibracion de Mensaje OFF.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Agregar Chat Grupal Automatico ON.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Agregar Chat Grupal Automatico OFF.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Configuracion de LLamada Sonido ON.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Configuracion de LLamada Sonido OFF.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Configuracion de LLamada Vibracion ON.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Configuracion de LLamada Vibracion OFF.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Configuracion de LLamada Sonido ON.
+
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Configuracion de LLamada Deteccion de Calidad de Red ON. (Como evaluar esta actividad)
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Configuracion de LLamada Deteccion de Calidad de Red OFF. (Como evaluar esta actividad)
+
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Uso de Datos Descargas Automaticas OFF.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Uso de Datos Descargas Automaticas ON Nunca.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Uso de Datos Descargas Automaticas ON Wifi.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Uso de Datos Descargas Automaticas ON Wifi y Datos.
+
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Uso de Datos Con Roaming On. ( Como validar esta actividad)
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Uso de Datos Con Roaming OFF. ( Como validar esta actividad)
+
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Respaldar Contactos.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Respaldar Restaurar Contactos.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Lista Negra Agregar Contacto Boton mas (+).
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Lista Negra Eliminar Contacto.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Version Claro Connect.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Preguntas Frecuentes.
+ATC-TEST-0000-FT-CCI-Home-Perfil-Ajustes Terminos y Condiciones.
+ATC-TEST-0000-FT-CCI-Logout.
+
+
+Calidad de Video Pendientes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
